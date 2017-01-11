@@ -1,30 +1,40 @@
 # 100 Days Of Code - Log
+### Day 1: january 05, 2017
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+**Today's Progress**: I've done tribute project from freecodecamp
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Built with twitter bootstrap.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Tribute Project](https://codepen.io/isusieq/pen/JRrAXN)
+
+
+https://codepen.io/isusieq/pen/JRrAXN
+### Day 2: january 06, 2017
+
+**Today's Progress**: I've done portfolio project from freecodecamp
+
+**Thoughts** Built with bootstrap.
+
+**Link(s) to work**
+1. [Portfolio](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage)
+2. [my portfolio](https://codepen.io/isusieq/pen/xEYQzJ)
+
+### Day 3: January 10, 2017
+##### (delete me or comment me out)
+
+**Today's Progress**: Went through Setting up ruby on rails using Cloud9.
+
+**Thoughts:** I had to try this a few times as the instructions were not very good when using cloud9.
+
+
+### Day 4: January 11, 2017 
+##### (delete me or comment me out)
+
+**Today's Progress**: Went through tutorials via odinproject for using GIT via cloud9, git bash and git desktop, learning how to setup for remote, creating branch off of mainline.
+
+**Thoughts**: Now I have a better handle of using GIT for any kind of version control.
+
+
+
+
