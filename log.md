@@ -21,7 +21,7 @@ https://codepen.io/isusieq/pen/JRrAXN
 2. [my portfolio](https://codepen.io/isusieq/pen/xEYQzJ)
 
 ### Day 3: January 10, 2017
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Went through Setting up ruby on rails using Cloud9.
 
@@ -29,7 +29,7 @@ https://codepen.io/isusieq/pen/JRrAXN
 
 
 ### Day 4: January 11, 2017 
-##### (delete me or comment me out)
+
 
 **Today's Progress**: Went through tutorials via odinproject for using GIT via cloud9, git bash and git desktop, learning how to setup for remote, creating branch off of mainline.
 
