@@ -36,5 +36,15 @@ https://codepen.io/isusieq/pen/JRrAXN
 **Thoughts**: Now I have a better handle of using GIT for any kind of version control.
 
 
+### Day 31: january 31, 2017
+
+**Today's Progress**: I've finally completed the weather app challenge from freecodecamp
+
+**Thoughts** Built with bootstrap.
+
+**Link(s) to work**
+1. [weather app](https://www.freecodecamp.com/challenges/show-the-local-weather)
+2. [my portfolio](	https://codepen.io/isusieq/pen/wgpQPV)
+
 
 
